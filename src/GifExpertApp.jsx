@@ -7,7 +7,7 @@ export const GifExpertApp = () => {
     'Animados',
     /* 'Politica',
     'Humor', */
-  ]);
+  ]);  
 
   const handleAddCategory = (newCategory) => {
     if (categories.includes(newCategory))
